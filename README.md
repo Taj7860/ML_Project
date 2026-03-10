@@ -1,4 +1,4 @@
-Streamlit App: https://helthinsurancepredictor.streamlit.app
+Streamlit App: https://healthinsurancepredictor.streamlit.app
 
 pip install streamlit
 
